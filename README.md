@@ -5,7 +5,7 @@
 
 ---
 
-- 📫 How to reach me **n23dcpt086@student.ptithcm.edu.vn**
+- 📧 **Email:** **n23dcpt086@student.ptithcm.edu.vn**
 
 ---
 
