@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Trần+Thị+Thuận+Kiều;Welcome+to+my+GitHub!;MSSV:N23DCPT086;)](https://git.io/typing-svg)
-<p align="center">
-  🎓<b>Sinh viên ngành Công nghệ đa phương tiện</b> <br>
-  🏫<b>Học Viện Công Nghệ Bưu Chính Viễn Thông</b> <br>
 
 ---
 
+- 🎓<b>Sinh viên ngành Công nghệ đa phương tiện</b> <br>
+- 🏫<b>Học Viện Công Nghệ Bưu Chính Viễn Thông</b> <br>
 - 📧 **Email:** **n23dcpt086@student.ptithcm.edu.vn**
 
 ---
