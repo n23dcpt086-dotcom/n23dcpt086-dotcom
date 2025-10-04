@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" with="40px" alt="wave"/>
   <p align="center">
-  <img src="https://img.shields.io/badge/Student-PTIT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Student-PTIT-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Major-Multimedia%20Technology-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Loves-Creativity-pink?style=for-the-badge" />
 </p>
