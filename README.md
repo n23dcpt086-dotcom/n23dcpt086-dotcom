@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trần Thị Thuận Kiều</h1>
   🎓<b>Sinh viên ngành Công nghệ đa phương tiện</b> <br>
   🏫<b>Học Viện Công Nghệ Bưu Chính Viễn Thông</b> <br>
-  💻 <i>Software Engineering Lab - Lab 01</i>
 
 ---
 
