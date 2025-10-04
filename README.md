@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trần Thị Thuận Kiều</h1>
+<p align="center">
   🎓<b>Sinh viên ngành Công nghệ đa phương tiện</b> <br>
   🏫<b>Học Viện Công Nghệ Bưu Chính Viễn Thông</b> <br>
 
