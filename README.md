@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Thị Thuận Kiều</h1>
-<h3 align="center">Sinh viên ngành Công nghệ đa phương tiện - Học viện công nghệ bưu chính viễn thông</h3>
+  🎓<b>Sinh viên ngành Công nghệ đa phương tiện</b> <br>
+  🏫<b>Học Viện Công Nghệ Bưu Chính Viễn Thông</b> <br>
+  💻 <i>Software Engineering Lab - Lab 01</i>
 
 - 📫 How to reach me **n23dcpt086@student.ptithcm.edu.vn**
 
