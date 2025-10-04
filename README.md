@@ -24,9 +24,17 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n23dcpt086-dotcom&show_icons=true&theme=radical" alt="Kiều's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n23dcpt086-dotcom&show_icons=true&theme=tokyonight" alt="Kiều's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n23dcpt086-dotcom&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt086-dotcom&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-⭐️ From [Trần Thị Thuận Kiều](https://github.com/n23dcpt086-dotcom)
+⭐️ <b>From [Trần Thị Thuận Kiều]</b> <br>(https://github.com/n23dcpt086-dotcom)
