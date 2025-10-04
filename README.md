@@ -6,10 +6,11 @@
   <img src="https://img.shields.io/badge/Major-Multimedia%20Technology-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Loves-Creativity-pink?style=for-the-badge" />
 </p>
+
+
 ---
 
-- 🎓<b>Sinh viên ngành Công nghệ đa phương tiện</b> <br>
-- 🏫<b>Học Viện Công Nghệ Bưu Chính Viễn Thông</b> <br>
+
 - 📧 **Email:** **n23dcpt086@student.ptithcm.edu.vn**
 
 ---
