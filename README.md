@@ -33,7 +33,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt086-dotcom&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n23dcpt086-dotcom&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n23dcpt086-dotcom&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt086-dotcom&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n23dcpt086-dotcom&theme=radical" />
+</p>
 ---
 
 ⭐️ <b>From [Trần Thị Thuận Kiều]</b>:(https://github.com/n23dcpt086-dotcom)
